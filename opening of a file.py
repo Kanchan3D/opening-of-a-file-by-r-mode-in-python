@@ -1,0 +1,6 @@
+f=open("test.txt","r")
+text=f.read()
+print(f)
+print(text)
+f=open("test.txt","r")
+print(f.read())
